@@ -2,9 +2,10 @@
 
 ```json
 {
+    "create_window_at_startup": false,
     "draw_white_space": "all",
     "font_face": "YaHei Consolas Hybrid",
-    "ignored_packages": ["Vintage"]
+    "ignored_packages": ["Vintage"],
 }
 ```
 
@@ -42,3 +43,4 @@ import  urllib.request,os;pf='Package Control.sublime-package';ipp=sublime.insta
 -   SideBarEnhancements
 -   ConvertToUTF8
 -   CodeFormatter
+-   ChineseLocalizations
