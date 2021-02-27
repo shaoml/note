@@ -1,0 +1,30 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "[markdown]": {
+    "editor.quickSuggestions": true
+  },
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.wordWrapColumn": 120,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "javascript.format.semicolons": "insert",
+  "typescript.format.semicolons": "insert",
+  "vetur.ignoreProjectWarning": true,
+  "vsicons.dontShowNewVersionMessage": true,
+  "window.openFilesInNewWindow": "on",
+  "workbench.iconTheme": "vscode-icons",
+  "sqltools.useNodeRuntime": true,
+  "sqltools.autoConnectTo": "",
+  "sqltools.autoOpenSessionFiles": false,
+  "workbench.editor.enablePreview": false,
+  "workbench.startupEditor": "newUntitledFile"
+}

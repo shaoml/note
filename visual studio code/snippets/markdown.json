@@ -1,0 +1,49 @@
+{
+  "Insert h2 list": {
+    "prefix": "h2",
+    "body": [
+      "## ${1:title}",
+      "## ${2:title}",
+      "## ${3:title}",
+      "## ${4:title}",
+      "## ${5:title}"
+    ],
+    "description": "Insert h2 list"
+  },
+  "Insert unordered list": {
+    "prefix": "list",
+    "body": [
+      "- ${1:title}",
+      "- ${2:title}",
+      "- ${3:title}",
+      "- ${4:title}",
+      "- ${5:title}"
+    ],
+    "description": "Insert unordered list"
+  },
+  "Insert a link": {
+    "prefix": "link",
+    "body": ["[${1:title}](${2:href})"],
+    "description": "Insert a link"
+  },
+  "Insert javascript code": {
+    "prefix": "javascript",
+    "body": ["```javascript", "$1", "```"],
+    "description": "Insert javascript code"
+  },
+  "Insert html code": {
+    "prefix": "html",
+    "body": ["```html", "$1", "```"],
+    "description": "Insert html code"
+  },
+  "Insert sql code": {
+    "prefix": "sql",
+    "body": ["```sql", "$1", "```"],
+    "description": "Insert sql code"
+  },
+  "Insert bash code": {
+    "prefix": "bash",
+    "body": ["```bash", "$1", "```"],
+    "description": "Insert bash code"
+  }
+}
