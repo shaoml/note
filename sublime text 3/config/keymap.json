@@ -1,0 +1,14 @@
+[
+  {
+    "keys": ["ctrl+s"],
+    "command": "save_all"
+  },
+  {
+    "keys": ["ctrl+w"],
+    "command": "close_all"
+  },
+  {
+    "keys": ["escape"],
+    "command": "close"
+  }
+]

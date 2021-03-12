@@ -1,0 +1,6 @@
+{
+  "create_window_at_startup": false,
+  "draw_white_space": "all",
+  "font_face": "YaHei Consolas Hybrid",
+  "ignored_packages": ["Vintage"]
+}
